@@ -1,3 +1,9 @@
+--[[
+Admin Logo: "rbxassetid://92470160883539"
+Premium Logo: "rbxassetid://95072841929238"
+Format: [UserID] = {Rank = Premium/Admin, Logo = AssetID},
+]]
+
 return {
   [8448763249] = {Rank = "Admin", Logo = "rbxassetid://92470160883539"},
   [8274679019] = {Rank = "Admin", Logo = "rbxassetid://92470160883539"}, 
