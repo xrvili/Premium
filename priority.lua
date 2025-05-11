@@ -1,6 +1,6 @@
--- do not edit this unless making new ranks
+-- do not edit this unless making new ranks, make sure rank is UNCAPITALIZED
 
 return {
-  ["Premium"] = 1,
-  ["Admin"] = 2,
+  ["premium"] = 1,
+  ["admin"] = 2,
 }
