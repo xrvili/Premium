@@ -1,14 +1,14 @@
 --[[
-Admin Logo: "rbxassetid://92470160883539"
-Premium Logo: "rbxassetid://95072841929238"
+Admin Logo: "rbxassetid://108769013608592"
+Premium Logo: "rbxassetid://131565214240422"
 Format: [UserID] = {Rank = Premium/Admin, Logo = AssetID},
 ]]
 
 return {
-  [8448763249] = {Rank = "Admin", Logo = "rbxassetid://92470160883539"},
-  [8274679019] = {Rank = "Admin", Logo = "rbxassetid://92470160883539"}, 
-  [4136435201] = {Rank = "Admin", Logo = "rbxassetid://92470160883539"},
-  [7981371006] = {Rank = "Premium", Logo = "rbxassetid://95072841929238"},
-  [7678440425] = {Rank = "Premium", Logo = "rbxassetid://95072841929238"},
-  [8447867624] = {Rank = "Premium", Logo = "rbxassetid://95072841929238"},
+  [8448763249] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"},
+  [8274679019] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"}, 
+  [4136435201] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"},
+  [7981371006] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
+  [7678440425] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
+  [8447867624] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
 }
