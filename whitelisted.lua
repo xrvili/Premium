@@ -11,4 +11,5 @@ return {
   [7981371006] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
   [7678440425] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
   [8447867624] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
+  [8437140706] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
 }
