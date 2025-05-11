@@ -5,6 +5,7 @@ Format: [UserID] = {Rank = Premium/Admin, Logo = AssetID},
 ]]
 
 return {
+  [2239776711] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"},
   [8448763249] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"},
   [8454953765] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"}, 
   [4136435201] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"},
