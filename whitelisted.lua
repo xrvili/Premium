@@ -14,4 +14,5 @@ return {
   [8447867624] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
   [8437140706] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
   [121340313] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
+  [8443279457] = {Rank = "Preium", Logo = "rbxassetid://131565214240422"},   --- Remove if the 2 boosts go.
 }
