@@ -17,5 +17,5 @@ return {
   [8461091289] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"},  
   [8470406766] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},
   [8472532762] = {Rank = "Premium", Logo = "rbxassetid://131565214240422"},   --- His second WL, Got API banned on his old account. Discord ID: 615046943420186634 (@devdotsix)
-  
+  [11360483] = {Rank = "Premium", Logo = "rbxassetid://0"},
 }
