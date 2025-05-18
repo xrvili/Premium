@@ -2,5 +2,6 @@
 
 return {
   ["premium"] = 1,
-  ["admin"] = 2,
+  ["premium+"] = 2,
+  ["admin"] = 3
 }
