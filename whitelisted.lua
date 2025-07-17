@@ -20,4 +20,5 @@ return {
   [11360483] = {Rank = "Premium", Logo = "rbxassetid://0"},
   [8488471539] = {Rank = "Premium", Logo = "rbxassetid://0"},
   [8490216918] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"}, -- xrvili
+  [3672439894] = {Rank = "Admin", Logo = "rbxassetid://108769013608592"}, -- NOTTI
 }
